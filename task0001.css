@@ -1,0 +1,13 @@
+	<style type="text/css">
+	h1 {color:blue}
+	h2 {font-size: 14px}
+	p  {color:yellow;
+      background-color: black;
+      font-size: 12px}
+    .intro {background-color: red;
+          background-size: 960px;
+          text-align: center}
+  img {border-style: solid;
+       border-color: red;
+       border-width: 2px}    
+	</style>
